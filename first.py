@@ -16,3 +16,8 @@ print(str(today))
  
 # prints the official format of date-time object
 print(repr(today))
+
+def hello():
+    print("Hey how are you");
+
+hello()
