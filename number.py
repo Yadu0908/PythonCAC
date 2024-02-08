@@ -21,3 +21,10 @@ ch= ['Tea', 'Black coffee', 'Milk coffee', 'Red tea'];
 random.choice(ch);      #It will give the choice from above list.
 
 random.shuffle(ch);
+
+
+
+print((0.1) + (0.1) + (0.1) - (0.3));
+
+from decimal import Decimal
+print(Decimal('0.1') + Decimal('0.1') + Decimal('0.1') - Decimal('0.3'))
