@@ -34,7 +34,7 @@
 
     random.shuffle(ls) #Shuffle's the list `ls`
 ```
-5) We might get some random like value when we do some operation on floating point numbers, Like shown below:
+5) We might get some random value's whlie doing operation on floating point numbers, Like shown below:
 
 ```python
     print((0.1) + (0.1) + (0.1) - (0.3))
@@ -50,4 +50,15 @@ But we know at this condition it is wrong answer.
     
 ```
 
+6) Now lets play with `Set's`
+
+```python
+    set1= {1,2,3}
+
+    print(set1 & {2,3})     #For intersection.
+    print(set1 | {2,3})     #For union.
+    print(set1 - {2,3})     #For difference.
+
+```
+* In python `Empty set` is represented as `set()` not like `{}`, this is because the `empty curly braces` mean dictionary data type but set is an another data type.
 </body>

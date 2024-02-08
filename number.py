@@ -28,3 +28,11 @@ print((0.1) + (0.1) + (0.1) - (0.3));
 
 from decimal import Decimal
 print(Decimal('0.1') + Decimal('0.1') + Decimal('0.1') - Decimal('0.3'))
+
+
+set1= {1,2,3}
+
+print(set1 & {2,3})     #For intersection.
+print(set1 | {2,3})     #For union.
+print(set1 - {2,3})     #For difference.
+
