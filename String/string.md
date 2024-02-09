@@ -47,3 +47,22 @@ print(ascii(string1)) #total letters on the string contain spaces
 
 ````
 <a href= "https://www.digitalocean.com/community/tutorials/python-string-functions" style =" color: doer blue; font-weight: 600; text-decoration: underline">Click me</a> for all the string operation and their use in Python with their importance.
+
+5) We can join our different string's using `format()`.
+```python
+    #use of format()
+
+    var1= "Sachin"
+    var2= "Virat"
+    string= "{} and {} Play cricket"
+
+    print(string.format(var1, var2)) #Sachin and Virat Play cricket
+```
+
+6) We can also convert our list into string by using `join()`
+```python
+    #list into string
+    ls= ["cricket", "football", "tenis", "chess"]
+    
+    print(" ".join(ls)) #cricket football tenis chess
+```
