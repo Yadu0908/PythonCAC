@@ -62,3 +62,9 @@ But we know at this condition it is wrong answer.
 ```
 * In python `Empty set` is represented as `set()` not like `{}`, this is because the `empty curly braces` mean dictionary data type but set is an another data type.
 </body>
+
+----
+7) Here in python we always confuse between `function` and `method`, So here is the difference.
+
+- `Function` can be defined anywhere on the program or file.
+- `Method` should be always defined inside the class and should contain one parameter atleast name `self`.
