@@ -1,5 +1,17 @@
 ## List in python
 
+### \* Note for all mutable datatype in python-:
+For mutable datatype we have actually an keyword, name `del` Which is used only for deleting the `mutable` datatype elemnts.
+
+```python
+    ls= [1,2,23,43]
+    del ls[3]   #delele 43
+
+    dics= {'aman':78, 'amit':54, 'vijay': 87}
+    del disc['aman']
+```
+----
+<br><br>
 1) The list class is a `fundamental built-in data type` in Python. It has an impressive and useful set of features, allowing you to efficiently organize and manipulate heterogeneous data.
 2) list is `Mutable` which stands for it can be chnage.
 
