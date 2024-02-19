@@ -97,4 +97,4 @@ Here in above syntex we iterate our items of dict1 with key and value pair.
 ```
 output:
 ---
-![Output Example](image.png)
+![Output Example](image.jpg)
