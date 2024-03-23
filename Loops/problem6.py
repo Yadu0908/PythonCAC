@@ -1,11 +1,13 @@
+# Factorial of a given number with while loop.
+
 number= 6
 mul = 1
 
-while(number>= 1):
+while(number> 1):
 
     mul = mul * number
 
-    number = number-1
+    number-= 1
     
-print(mul)
+print("Factorial is:",mul)
 

@@ -1,3 +1,5 @@
+# Counting the number of +ve number's on given list. 
+
 num= [-1, -29, 3, 43, 54, -93, -72, -73, 6, 7, 9, 4]
 
 count = 0

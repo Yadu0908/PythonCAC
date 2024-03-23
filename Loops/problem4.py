@@ -1,3 +1,5 @@
+# Reverse the string.
+
 string = "YADU"
 rev_string= ""
 

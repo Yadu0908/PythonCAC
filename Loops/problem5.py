@@ -1,3 +1,5 @@
+# Fetching the first non-repeted letter from the given string.
+
 newString = "YYaaduuHbb"
 
 for i in newString:
@@ -9,3 +11,4 @@ for i in newString:
     #     continue
 
 #! Here if we use break and continue statement then it will does not include the next single charcter after fetching one. 
+

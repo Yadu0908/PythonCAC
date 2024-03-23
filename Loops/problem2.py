@@ -1,3 +1,5 @@
+# Sum of all number's on given list.
+
 numbers= [2,4,5,6,7,8,9]
 
 count = 0
