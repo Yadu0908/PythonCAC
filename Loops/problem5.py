@@ -1,10 +1,11 @@
-string = "hhelesaoo"
+newString = "YYaaduuHbb"
 
-# for i in string:
+for i in newString:
+    if(newString.count(i)== 1):
 
-#     count = 
-#     if(string.count == 1):
-#         print(i)
+        print(i)
+    #     break
+    # else:
+    #     continue
 
-
-string.count()
+#! Here if we use break and continue statement then it will does not include the next single charcter after fetching one. 
